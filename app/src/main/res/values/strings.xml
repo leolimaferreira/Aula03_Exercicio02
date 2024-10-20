@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aula03_Exercicio02</string>
+    <string name="etBits">Entre com o valor em bits</string>
+    <string name="tvConverter">Converter em:</string>
+    <string name="rbBytes">Bytes</string>
+    <string name="rbKB">KB</string>
+    <string name="rbMB">MB</string>
+    <string name="rbGB">GB</string>
+    <string name="rbTB">TB</string>
+    <string name="btnConverter">Converter</string>
+</resources>
